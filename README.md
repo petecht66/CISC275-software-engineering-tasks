@@ -1,6 +1,6 @@
 # CISC275-software-engineering-tasks
 Completion Timeline for CISC275: February to May 2025
-Last Updated on GitHub: February 10, 2026
+Last Updated on GitHub: February 25, 2026
 
 This repository contains my complete work for the tasks of CISC275: Introduction to Software Engineering at the University of Delaware College of Engineering Department of Computer and Information Sciences. I completed this course in the Spring of 2025, with Professor John Aromando being the course instructor. The purpose of this course was to introduce students to software engineering topics such as object oriented software design and development, team programming, design patterns, graphical user interfaces, version control, build management, bug tracking, automated testing, and more.
 
